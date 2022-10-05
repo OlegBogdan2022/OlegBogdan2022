@@ -1,0 +1,17 @@
+   0 pwd
+   1 touch /tmp/file.txt && echo "October fest" >> /tmp/file.txt
+   2 cat /tmp/file.txt
+   3 echo "Berlin" >> /We tmp/file.txt
+   4 date >> /tmp/We file.txt
+   5 echo "Berlin" >> /tmp/file.txt
+   6 date >> /tmp/file.txt
+   7 cat /tmp/file.txt
+   8 mkdir /opt/task/ && cp /tmp/file.txt /opt/task/Berlin.txt
+   9 cat /opt/task/Berlin.txt
+  10 cd /bin
+  11 ls
+  12 ls -f /bin | tail -4 >> /opt/task/Berlin.txt
+  13 cat /otp/task/Berlin.txt
+  14 ls -l /bin | tail -4 >> /opt/task/Berlin.txt
+  15 cat /otp/task/Berlin.txt
+  16 history > /tmp/history.txt && export_file /tmp/history.txt
